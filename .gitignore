@@ -1,0 +1,25 @@
+# Build directories
+build/
+bin/
+obj/
+
+# Executables and compiled objects
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+*.so
+*.dylib
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+*~
