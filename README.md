@@ -98,4 +98,3 @@ If you are starting from scratch on Windows, we highly recommend using the MSYS2
 - **Clear All**: Nuke the board completely.
 
 ---
-*Created by Ashraf Suhail*
